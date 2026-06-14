@@ -8,14 +8,29 @@
   Desenvolvimento Web • Engenharia de Software • UX/UI
 </p>
 
+<div align="center">
+
+<a href="mailto:souzaanavitoria888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ana-vitória-santana-souza-67445528b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Engenharia de Software, Sistemas Distribuídos e Desenvolvimento Web
-- 🌱 Aprimorando conhecimentos em React, JavaScript e Banco de Dados
-- 🎯 Interesse em desenvolvimento de aplicações web e experiência do usuário
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+📚 Estudando Engenharia de Software, Sistemas Distribuídos e Desenvolvimento Web
+
+🌱 Aprimorando conhecimentos em React, JavaScript e Banco de Dados
+
+🎯 Interesse em desenvolvimento de aplicações web e experiência do usuário
 
 ---
 
@@ -23,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github,figma,vscode"/>
 
 </div>
 
@@ -41,7 +56,7 @@
 
 ---
 
-## 📈 Contribuições
+## 🔥 Contribuições
 
 <div align="center">
 
@@ -51,12 +66,10 @@
 
 ---
 
-## 📫 Contato
+## 🐍 Contribuições Animadas
 
 <div align="center">
 
-<a href="mailto:souzaanavitoria888@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+![Snake animation](https://github.com/AnaSouza2/AnaSouza2/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
